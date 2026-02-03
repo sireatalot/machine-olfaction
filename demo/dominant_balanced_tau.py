@@ -233,7 +233,7 @@ def tau_piecewise(intensities, dominance_ratio, mixture_type):
         return tau_balanced_ratio_smoother(
             dominance_ratio,
             tau0=2.0, c=0.6, delta0=0.02,
-            tau_min=3.0, tau_max=12.0
+            tau_min=1.0, tau_max=50.0
         )
 
 
