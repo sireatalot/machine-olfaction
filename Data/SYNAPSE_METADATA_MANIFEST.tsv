@@ -1,0 +1,15 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/rtatang/machineolfaction/Data/Cleaned_Mixure_Definitions_Training_Set.csv	syn61941617	Cleaned_Mixure_Definitions_Training_Set.csv	syn61941619	True	text/csv				
+/home/rtatang/machineolfaction/Data/Cleaned_pred_percept_single_162.csv	syn61941617	Cleaned_pred_percept_single_162.csv	syn61941620	True	text/csv				
+/home/rtatang/machineolfaction/Data/Dragon_Descriptors.csv	syn61941617	Dragon_Descriptors.csv	syn61941649	True	text/csv				
+/home/rtatang/machineolfaction/Data/Mordred_Descriptors.csv	syn61941617	Mordred_Descriptors.csv	syn61941651	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Iterative_Definitions_0.99.csv	syn61941617	New_Iterative_Definitions_0.99.csv	syn61941652	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Iterative_Definitions_0.997.csv	syn61941617	New_Iterative_Definitions_0.997.csv	syn61941653	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Iterative_Training_Data_0.99.csv	syn61941617	New_Iterative_Training_Data_0.99.csv	syn61941654	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Iterative_Training_Data_0.997.csv	syn61941617	New_Iterative_Training_Data_0.997.csv	syn61941658	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Random_Definitions_0.92.csv	syn61941617	New_Random_Definitions_0.92.csv	syn61941662	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Random_Definitions_0.97.csv	syn61941617	New_Random_Definitions_0.97.csv	syn61941663	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Random_Training_Data_0.92.csv	syn61941617	New_Random_Training_Data_0.92.csv	syn61941664	True	text/csv				
+/home/rtatang/machineolfaction/Data/New_Random_Training_Data_0.97.csv	syn61941617	New_Random_Training_Data_0.97.csv	syn61941665	True	text/csv				
+/home/rtatang/machineolfaction/Data/dragon_all.csv	syn61941617	dragon_all.csv	syn61941640	True	text/csv				
+/home/rtatang/machineolfaction/Data/ensemble_embeddings_161.csv	syn61941617	ensemble_embeddings_161.csv	syn61941650	True	text/csv				

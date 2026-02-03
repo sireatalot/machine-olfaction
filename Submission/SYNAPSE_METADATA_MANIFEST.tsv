@@ -1,0 +1,24 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/rtatang/machineolfaction/Submission/Direct_approach.csv	syn61930134	Direct_approach.csv	syn61657112	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission.csv	syn61930134	Leaderboard_set_Submission.csv	syn60529752	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission_form.csv	syn61930134	Leaderboard_set_Submission_form.csv	syn60529753	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission_form_with_predictions_gnn.csv	syn61930134	Leaderboard_set_Submission_form_with_predictions_gnn.csv	syn60580453	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission_form_with_predictions_gnn_166.csv	syn61930134	Leaderboard_set_Submission_form_with_predictions_gnn_166.csv	syn60690670	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission_form_with_predictions_svm_rbf.csv	syn61930134	Leaderboard_set_Submission_form_with_predictions_svm_rbf.csv	syn60868661	True	text/csv				
+/home/rtatang/machineolfaction/Submission/Leaderboard_set_Submission_form_with_predictions_svm_rbf_tau_5.csv	syn61930134	Leaderboard_set_Submission_form_with_predictions_svm_rbf_tau_5.csv	syn60941077	True	text/csv				
+/home/rtatang/machineolfaction/Submission/attn_dl_model_output_DA_Iter_0.99_nhead_8_d_model_256_lr_0.005.csv	syn61930134	attn_dl_model_output_DA_Iter_0.99_nhead_8_d_model_256_lr_0.005.csv	syn61659569	True	text/csv				
+/home/rtatang/machineolfaction/Submission/catboost_predictions_da_Iterative_tau_30_n_estimators_400_feature_construction_square_difference_threshold_0.99 (1).csv	syn61930134	catboost_predictions_da_Iterative_tau_30_n_estimators_400_feature_construction_square_difference_threshold_0.99 (1).csv	syn61846247	True	text/csv				
+/home/rtatang/machineolfaction/Submission/catboost_predictions_da_no_Random_tau_30_n_estimators_400_feature_construction_absolute_difference_threshold_0.97.csv	syn61930134	catboost_predictions_da_no_Random_tau_30_n_estimators_400_feature_construction_absolute_difference_threshold_0.97.csv	syn61929992	True	text/csv				
+/home/rtatang/machineolfaction/Submission/catboost_predictions_da_no_Random_tau_36_n_estimators_510_feature_construction_square_difference_threshold_0.92.csv	syn61930134	catboost_predictions_da_no_Random_tau_36_n_estimators_510_feature_construction_square_difference_threshold_0.92.csv	syn61932629	True	text/csv				
+/home/rtatang/machineolfaction/Submission/catboost_predictions_da_tau_2_n_estimators_180.csv	syn61930134	catboost_predictions_da_tau_2_n_estimators_180.csv	syn61484206	True	text/csv				
+/home/rtatang/machineolfaction/Submission/catboost_predictions_da_tau_5_n_estimators_140.csv	syn61930134	catboost_predictions_da_tau_5_n_estimators_140.csv	syn61490306	True	text/csv				
+/home/rtatang/machineolfaction/Submission/dataset_mixtures.csv	syn61930134	dataset_mixtures.csv	syn61517029	True	text/csv				
+/home/rtatang/machineolfaction/Submission/deep_learning_prediction.csv	syn61930134	deep_learning_prediction.csv	syn61517044	True	text/csv				
+/home/rtatang/machineolfaction/Submission/rf_predictions_da_tau_1_n_estimators_200.csv	syn61930134	rf_predictions_da_tau_1_n_estimators_200.csv	syn61396561	True	text/csv				
+/home/rtatang/machineolfaction/Submission/rf_predictions_da_tau_1_n_estimators_80.csv	syn61930134	rf_predictions_da_tau_1_n_estimators_80.csv	syn61404318	True	text/csv				
+/home/rtatang/machineolfaction/Submission/rf_predictions_tau_3_n_estimators_190.csv	syn61930134	rf_predictions_tau_3_n_estimators_190.csv	syn61234108	True	text/csv				
+/home/rtatang/machineolfaction/Submission/svm_rbf_tau_3_p_1.csv	syn61930134	svm_rbf_tau_3_p_1.csv	syn61249534	True	text/csv				
+/home/rtatang/machineolfaction/Submission/svm_rbf_tau_ensemble_25_p_2.csv	syn61930134	svm_rbf_tau_ensemble_25_p_2.csv	syn61259491	True	text/csv				
+/home/rtatang/machineolfaction/Submission/svm_rbf_tau_ensemble_da_36_p_1.csv	syn61930134	svm_rbf_tau_ensemble_da_36_p_1.csv	syn61377661	True	text/csv				
+/home/rtatang/machineolfaction/Submission/xgboost_predictions_da_Random_tau_23_n_estimators_300_feature_construction_absolute_difference_threshold_0.92.csv	syn61930134	xgboost_predictions_da_Random_tau_23_n_estimators_300_feature_construction_absolute_difference_threshold_0.92.csv	syn61790434	True	text/csv				
+/home/rtatang/machineolfaction/Submission/xgboost_predictions_da_Random_tau_23_n_estimators_400_feature_construction_absolute_difference_threshold_0.92.csv	syn61930134	xgboost_predictions_da_Random_tau_23_n_estimators_400_feature_construction_absolute_difference_threshold_0.92.csv	syn61792112	True	text/csv				

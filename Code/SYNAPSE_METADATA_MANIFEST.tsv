@@ -1,0 +1,8 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/rtatang/machineolfaction/Code/data_augmentation_boosting.py	syn61941607	data_augmentation_boosting.py	syn61941608	True	text/x-python				
+/home/rtatang/machineolfaction/Code/data_augmentation_iterative_cos.py	syn61941607	data_augmentation_iterative_cos.py	syn61941609	True	text/x-python				
+/home/rtatang/machineolfaction/Code/data_augmentation_random_cos.py	syn61941607	data_augmentation_random_cos.py	syn61941610	True	text/x-python				
+/home/rtatang/machineolfaction/Code/mpnn_pom_embedding_weighted.ipynb	syn61941607	mpnn_pom_embedding_weighted.ipynb	syn61941611	True	application/octet-stream				
+/home/rtatang/machineolfaction/Code/pred_percept_single_elastic.py	syn61941607	pred_percept_single_elastic.py	syn61941612	True	text/x-python				
+/home/rtatang/machineolfaction/Code/process_dragon.py	syn61941607	process_dragon.py	syn61941613	True	text/x-python				
+/home/rtatang/machineolfaction/Code/train_percept_single_elastic.py	syn61941607	train_percept_single_elastic.py	syn61941614	True	text/x-python				
